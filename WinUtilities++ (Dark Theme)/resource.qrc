@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/about.png</file>
+        <file>img/qtlogo.png</file>
+        <file>img/utilitieslogo.png</file>
+    </qresource>
+</RCC>
